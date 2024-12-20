@@ -16,4 +16,5 @@ Other commands to know
 Springbbot maven plugin allows you run your application via the command line  
 `./mvnw spring-boot:run`
 
-## 
+### Dependency injection
+
