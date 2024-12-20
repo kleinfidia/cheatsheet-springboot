@@ -7,7 +7,7 @@ Mave has 3 phases :
     2 Default - where the most important goals live.
 
     3 Site - Where documentation is generated.
-Other commandsd to know
+Other commands to know
 
 `./mvnw package`,
 `/mvnw verify`,
