@@ -11,3 +11,9 @@ Other commands to know
 
 `./mvnw package`,
 `/mvnw verify`,
+`/mvnw clean test`
+
+Springbbot maven plugin allows you run your application via the command line  
+`./mvnw spring-boot:run`
+
+## 
