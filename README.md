@@ -1,2 +1,2 @@
 #   MAVEN
-To run maven oncommand line ./mvnw clean compile
+To run maven oncommand line `./mvnw clean compile`
